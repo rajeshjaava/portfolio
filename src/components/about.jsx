@@ -13,9 +13,10 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am Software Engineer...I love exploring new technologies,solving real world problems and often amazed by the progress we as a human species have made so far in the recent years.A Proud Passionate programmar with grit and resilience. </p>
+                    <p>I am Software Engineer,upcoming Entrepreneur... I love exploring new technologies,solving real world problems and often amazed by the progress we as a human species have made so far in the recent years.A Proud Passionate programmar with grit and resilience. </p>
                     <p>I have started reflecting my ideas and thougths through the medium of words recently, Finding my purpose and pursuing my passion . Believes in Kaizen life style, In each phase there are people incluenced me from their writings,books,movies,phylosophies,personalities,blogs and software applications. Thankful to every one and every situation which are making me As a stronger person day by day.</p>
                    <p> Vivekananda, APJ Adbul Kalam,Stave Jobs, Bill Gates,Robin Sharma, Elon Musk and Trivikram</p>
+                   <p>My passion on builing software products made to pursue further steps of entrepreneurship, will be stating our own startup venture very soon. </p>
                     </div>
                 </div>
                 </div>
@@ -38,8 +39,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Enterprise & API Development </h3>
-                    <p>I have experience in building API's and Distributed complex applications using Java,Spring Boot, Rest, SOAP, Micro services. Developed and deployed many open API's both as freelancer and employee..!</p>
+                    <h3>FullStack Development </h3>
+                    <p> I have experience in building web,entreprise and Distributed complex applications using Frond End technologies (Angular Js, React Js) , Backend technologies(Java,Spring Boot, Rest, SOAP, Micro services). Developed and deployed many open API's both as freelancer and employee..!</p>
                 </div>
                 </div>
             </div>
@@ -60,8 +61,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Good expertiese in working with tools like Jenkins,CICD, Docker, AWS and Openshift (DevOps). </p>
+                    <h3>Dev Ops & AWS </h3>
+                    <p>Having good expertise on various devops tools, to name few , jenkins, udeploy, open shift, kubernates, jules and having good understinding on AWS cloud service . </p>
                 </div>
                 </div>
             </div>

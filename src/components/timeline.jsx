@@ -21,8 +21,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Freelancing and Mentorship <span>2017-present</span></h2>
-                        <p>I used to take Mentorship sessions to  college graduates,aspiring software developers to lightening their paths towards achieving their dreams. And also i work for  freelancing projects</p>
+                        <h2>Pursuit of Passion  <span>2017-present</span></h2>
+                        <p>I used to take Mentorship sessions to  college graduates,aspiring software developers to lightening their paths towards achieving their dreams.Delivered many web applications as a freelancer </p>
+                        <p>To take it the learnings and passion into next phase, working on building organization with right startup ecosystem .</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +33,19 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Assistant Vice President at WellsFargo <span>2020-present</span></h2>
-                        <p>I recently joined in WellsFargo  as a Software Engineer. Building and Deploying quality apps into digital team on online billing is mycore responsibility . </p>
+                        <h2>Associate ( Software Development Engineer -3) in JP Mogran Chase <span>2022-present</span></h2>
+                        <p>Playing key role in modernizing the product with latest tech stacks( Angular Js, SpringBoot, Kubernates, AWS and Micro Services ) to become cloud native capabilities. Enhancing the application performace, refactoring,rewriting and rearchitecturing the code as part of modernization  </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Senior Software Engineer in WellsFargo <span>2020-2022</span></h2>
+                        <p> Building and Deploying quality apps into digital team on online billing is mycore responsibility. Writing Stored Procedures and Enhacing the features for direct pay product </p>
                       </div>
                     </div>
                   </article>
