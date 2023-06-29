@@ -16,7 +16,7 @@ export default class About extends Component {
                     <p>I am Software Engineer,upcoming Entrepreneur... I love exploring new technologies,solving real world problems and often amazed by the progress we as a human species have made so far in the recent years.A Proud Passionate programmar with grit and resilience. </p>
                     <p>I have started reflecting my ideas and thougths through the medium of words recently, Finding my purpose and pursuing my passion . Believes in Kaizen life style, In each phase there are people incluenced me from their writings,books,movies,phylosophies,personalities,blogs and software applications. Thankful to every one and every situation which are making me As a stronger person day by day.</p>
                    <p> Vivekananda, APJ Adbul Kalam,Stave Jobs, Bill Gates,Robin Sharma, Elon Musk and Trivikram</p>
-                   <p>My passion on builing software products made to pursue further steps of entrepreneurship, will be stating our own startup venture very soon. </p>
+                   <p>My passion on builing software products made to pursue further steps of entrepreneurship, will be starting our own startup venture very soon. </p>
                     </div>
                 </div>
                 </div>
