@@ -10,7 +10,7 @@ This is the implementaion code for the blog I have written '[How to create your 
 
 #Deploying into GIT Pages
 - Initialise git
-- add Git remote origin
+- add Git remote origin (git remote set-url origin git@github.com:rajeshjaava/portfolio.git)
 - Install github pages (npm install gh-pages)
 - Add home page URL and deployment scripts 
 - deploy (npm run deploy)
